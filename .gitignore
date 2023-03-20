@@ -1,0 +1,12 @@
+# ide
+.vscode
+.vs
+.idea
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
